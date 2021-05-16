@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBAConfig">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=UKDC1-PC-SQL21A.MGT.WORLDPAY.LOCAL\WPSISDB01;Initial Catalog=DBA_CONFIG</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>1d3fa805-ebda-4d68-8d1e-d51ae91183f8</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SQL Performance Baselining Reports", "SQL Performance Baselining Reports.rptproj", "{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "XEventReporting", "..\XEvents Reports\XEventReporting\XEventReporting.rptproj", "{B11DB568-80EB-464D-8648-B77299265E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Debug|Default.ActiveCfg = Debug
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Debug|Default.Build.0 = DebugLocal
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Debug|Default.Deploy.0 = DebugLocal
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.DebugLocal|Default.Build.0 = DebugLocal
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Release|Default.ActiveCfg = Release
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Release|Default.Build.0 = Release
+		{7BDC727C-BBFC-47CC-8FB1-5BE54024D17B}.Release|Default.Deploy.0 = Release
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Debug|Default.ActiveCfg = Debug
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Debug|Default.Build.0 = Debug
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Debug|Default.Deploy.0 = Debug
+		{B11DB568-80EB-464D-8648-B77299265E3A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B11DB568-80EB-464D-8648-B77299265E3A}.DebugLocal|Default.Build.0 = DebugLocal
+		{B11DB568-80EB-464D-8648-B77299265E3A}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Release|Default.ActiveCfg = Release
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Release|Default.Build.0 = Release
+		{B11DB568-80EB-464D-8648-B77299265E3A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
